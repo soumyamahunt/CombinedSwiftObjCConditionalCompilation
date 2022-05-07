@@ -1,0 +1,18 @@
+PODS:
+  - SwiftObjcFramework/ObjC (1.0.0)
+  - SwiftObjcFramework/Swift (1.0.0)
+
+DEPENDENCIES:
+  - SwiftObjcFramework/ObjC (from `../`)
+  - SwiftObjcFramework/Swift (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftObjcFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftObjcFramework: cb3a2d5f9458d340cc72540f640f976635bac51e
+
+PODFILE CHECKSUM: a5a09eb60b515f7bf0787757dfbcc5689c580917
+
+COCOAPODS: 1.11.3
